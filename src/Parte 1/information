@@ -1,0 +1,15 @@
+    ---- HARDWARE INFORMATION ----
+
+CPU type: Pentium(R) Dual-Core CPU       T4500  @ 2.30GHz
+Vendor ID: GenuineIntel
+CPU speed: 1200.000 Hz
+Cache size: 1024 KB
+
+    ---- SOFTWARE INFORMATION ----
+
+Node: albyline-HP-620
+Python compiler: GCC 4.7.2
+Python build number: default
+Python version: 2.7.3
+Operative system: Linux-3.5.0-17-generic-i686-with-Ubuntu-12.10-quantal
+Python build date: Sep 26 2012 21:53:58

@@ -1,0 +1,11 @@
+    ---- RESULTADOS DEL EXPERIMENTO ----
+
+Valor real: 3.14159265359, Intervalos: 10.0, Valor obtenido: 3.142425985, 0.0% (umbral 0.1), 0.0% (umbral 0.01), 0.0% (umbral 0.001), 0.0% (umbral 0.0001), 0.0% (umbral 1e-05), 0.0% (umbral 1e-06)
+Valor real: 3.14159265359, Intervalos: 100.0, Valor obtenido: 3.14160098692, 0.0% (umbral 0.1), 0.0% (umbral 0.01), 0.0% (umbral 0.001), 0.0% (umbral 0.0001), 0.0% (umbral 1e-05), 0.0% (umbral 1e-06)
+Valor real: 3.14159265359, Intervalos: 1000.0, Valor obtenido: 3.14159273692, 0.0% (umbral 0.1), 0.0% (umbral 0.01), 0.0% (umbral 0.001), 0.0% (umbral 0.0001), 0.0% (umbral 1e-05), 0.0% (umbral 1e-06)
+Valor real: 3.14159265359, Intervalos: 10000.0, Valor obtenido: 3.14159265442, 0.0% (umbral 0.1), 0.0% (umbral 0.01), 0.0% (umbral 0.001), 0.0% (umbral 0.0001), 0.0% (umbral 1e-05), 0.0% (umbral 1e-06)
+Valor real: 3.14159265359, Intervalos: 100000.0, Valor obtenido: 3.1415926536, 0.0% (umbral 0.1), 0.0% (umbral 0.01), 0.0% (umbral 0.001), 0.0% (umbral 0.0001), 0.0% (umbral 1e-05), 0.0% (umbral 1e-06)
+Valor real: 3.14159265359, Intervalos: 1000000.0, Valor obtenido: 3.14159265359, 0.0% (umbral 0.1), 0.0% (umbral 0.01), 0.0% (umbral 0.001), 0.0% (umbral 0.0001), 0.0% (umbral 1e-05), 0.0% (umbral 1e-06)
+
+Tiempo total de ejecución: 35.6196591854 segundos
+Tiempo de uso de CPU: 35.56 segundos
